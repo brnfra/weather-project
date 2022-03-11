@@ -74,8 +74,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ### Parceiros :octocat:
-|[<img src="https://avatars.githubusercontent.com/GusttavoCastilho" width=115 > <br> <sub> Gustavo Castilho </sub>](https://github.com/GusttavoCastilho) |[<img src="https://avatars.githubusercontent.com/Jeferson-Branger" width=115 > <br> <sub> Jeferson-Branger </sub>](https://github.com/Jeferson-Branger) |[<img src="https://avatars.githubusercontent.com/Silvana23" width=115 > <br> <sub> Silvana  </sub>](https://github.com/Silvana23) |[<img src="https://avatars.githubusercontent.com/brnfra" width=115 > <br> <sub> Bruno Franco </sub>](https://github.com/brnfra) | [<img src="https://avatars.githubusercontent.com/leandrors009" width=115 > <br> <sub> Leandro </sub>](https://github.com/leandrors009) | 
+|[<img src="https://avatars.githubusercontent.com/GusttavoCastilho" width=115 > <br> <sub> Gustavo Castilho </sub>](https://github.com/GusttavoCastilho) |[<img src="https://avatars.githubusercontent.com/Jeferson-Branger" width=115 > <br> <sub> Jeferson-Branger </sub>](https://github.com/Jeferson-Branger) |[<img src="https://avatars.githubusercontent.com/Silvana23" width=115 > <br> <sub> Silvana  </sub>](https://github.com/Silvana23) |[<img src="https://avatars.githubusercontent.com/PauloFidelisGit" width=115 > <br> <sub> Paulo Fidelis </sub>](https://github.com/PauloFidelisGit) | [<img src="https://avatars.githubusercontent.com/leandrors009" width=115 > <br> <sub> Leandro </sub>](https://github.com/leandrors009) | 
 | :---: | :---: | :---: | :---: | :---: |
+|[<img src="https://avatars.githubusercontent.com/brnfra" width=115 > <br> <sub> Bruno Franco </sub>](https://github.com/brnfra) |
 
 
 ### Licença 
