@@ -44,11 +44,28 @@
 
 ### Instalação
 
-🚀 Em construção...  🚧
+1. O primeiro passo é instalar o yarn. Esse post fala um pouco sobre ele ,[artigo npm vs yarn](https://www.alura.com.br/artigos/npm-vs-yarn), e nesse as instruções para instalação [como instalar](https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable)
+    - Caso já esteja instalado verifique se todas as dependencias estão instaladas e execute;
+    ```bash
+    $ yarn
+    ```
+    ou
+    ```bash
+    $ yarn install
+    ```
+2. Clone o repositório na pasta de sua preferência,
+```bash
+$ git clone git@github.com:brnfra/weather-project.git 
+```
+3. Execute o comando 
+```bash
+$ yarn start
+```
+4. Pronto o projeto estará rodando em tempo real em sua maquina localmente.
 
-#### Pré requisitos
+#### Pré requisitos🚀
 
-🚀 Em construção...  🚧
+- É preciso ter yarn previamente instalado em sua máquina. [Guia como instalar o Yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
 
 #### Local Files
 
